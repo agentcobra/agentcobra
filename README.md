@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Caraïbes1712
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: http://agentcobra.online.fr/
+- 😄 Pronouns: He
 <!--
 **agentcobra/agentcobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
